@@ -406,10 +406,11 @@ section {
 .list-adv-flex {
     display: flex;
     padding-left: 0px;
+    gap: 30px;
 }
 
 .adv-line {
-    gap: 30px;
+    width: 270px;
 }
 
 .benefits-paragraph-style {
@@ -436,7 +437,7 @@ section {
     display: flex;
     padding-left: 0px;
     gap: 30px;
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 img {
@@ -455,7 +456,7 @@ img {
     display: flex;
     gap: 30px;
     padding-left: 0px;
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .team-style {
